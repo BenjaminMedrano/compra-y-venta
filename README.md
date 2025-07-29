@@ -1,10 +1,15 @@
 # Marketplace (Consola)
 Integrantes
 Benjamin Joel Medrano Escalera
+
 Ebert Mirko Escobar Gonzáles
+
 Henrry Humana Mamani
+
 Josué Alejandro Brañez Mercado
+
 Rodrigo Alejandro García Benavides
+
 Wilmer Reyes Corani
 
 Este es un ejemplo básico en Java de un sistema de compra-venta de productos.  
