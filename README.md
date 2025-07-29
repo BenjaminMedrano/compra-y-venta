@@ -15,7 +15,7 @@ Wilmer Reyes Corani
 
 Este es un ejemplo básico en Java de un sistema de compra-venta de productos.  
 Me permite registrar usuarios de una manera breve solo para que el sistema me deje mostrasr el funcionamiento de compra y venta.
-una vez que el cliente haya realizado su creacion de cuenta este tiene la opcion d epoder ingresar a nuestro
+una vez que el cliente haya realizado su creacion de cuenta este tiene la opcion de poder ingresar a nuestro
 Marketplace de la app misma donde podra realizar compra y venta de algun producto.
 ## Cómo ejecutar
 
